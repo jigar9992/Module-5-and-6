@@ -1,8 +1,0 @@
-{
-  "name": "ResearchSync",
-  "description": "Run a quick pass that cleans and summarizes the same raw notes.",
-  "skills": [
-    "CleanupNotes",
-    "SummarizeInsights"
-  ]
-}

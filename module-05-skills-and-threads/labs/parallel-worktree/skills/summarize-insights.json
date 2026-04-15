@@ -1,6 +1,0 @@
-{
-  "name": "SummarizeInsights",
-  "description": "Transform normalized notes into bullet-point insights.",
-  "parameters": ["normalizedNotes"],
-  "durationMs": 350
-}

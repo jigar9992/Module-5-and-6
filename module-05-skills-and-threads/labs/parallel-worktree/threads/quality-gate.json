@@ -1,8 +1,0 @@
-{
-  "name": "QualityGate",
-  "description": "Review notes for duplicates before sending to the writing thread.",
-  "skills": [
-    "CleanupNotes",
-    "FormatReport"
-  ]
-}
